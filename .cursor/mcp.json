@@ -1,0 +1,13 @@
+{
+"mcpServers": {
+    "dev-manager": {
+        "type": "stdio",
+        "command": "uvx",
+        "args": [
+            "ai-dev-manager-mcp@latest",
+            "-p",
+            "/Users/cnzhihao/github/dev-manager"
+            ]
+        }
+    }
+}
