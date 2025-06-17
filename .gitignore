@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+.Python
+.env
+.venv
+venv/
+env/
+# IDEs
+.idea/
+.vscode/
+# MCP Service specific
+.cursor/devplan/ 
